@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7769d85-97f3-490f-8bc9-6bf71d537999" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kF2k7HeqYDMABWdtCX9KbWXmkd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Kraken/gym-v3" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7769d85-97f3-490f-8bc9-6bf71d537999" name="Default Changelist" comment="" />
+      <created>1605282158280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605282158280</updated>
+      <workItem from="1605282159384" duration="4201000" />
+      <workItem from="1605657610149" duration="6846000" />
+      <workItem from="1605822210206" duration="1675000" />
+      <workItem from="1605961699802" duration="1183000" />
+      <workItem from="1606114301592" duration="180000" />
+      <workItem from="1606434326115" duration="8894000" />
+      <workItem from="1606459681222" duration="853000" />
+      <workItem from="1609503532390" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="781" y="122" key="FileChooserDialogImpl" timestamp="1606459836460">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="781" y="122" key="FileChooserDialogImpl/0.0.1366.728/1366.-314.1920.1040@0.0.1366.728" timestamp="1606459836460" />
+    <state x="781" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605696061711" />
+    <state x="565" y="310" key="NewPhpFileDialog" timestamp="1606437770416">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="565" y="310" key="NewPhpFileDialog/0.0.1366.728/-1360.6.1360.728@0.0.1366.728" timestamp="1606437770416" />
+    <state x="2160" y="129" key="NewPhpFileDialog/0.0.1366.728/1366.-314.1920.1040@1366.-314.1920.1040" timestamp="1605282190620" />
+  </component>
+</project>
